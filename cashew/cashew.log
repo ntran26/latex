@@ -1,0 +1,442 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.14)  17 FEB 2023 13:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**d:/latex/Cashew/cashew.tex
+(d:/latex/Cashew/cashew.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-02> (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen143
+\lightrulewidth=\dimen144
+\cmidrulewidth=\dimen145
+\belowrulesep=\dimen146
+\belowbottomsep=\dimen147
+\aboverulesep=\dimen148
+\abovetopsep=\dimen149
+\cmidrulesep=\dimen150
+\cmidrulekern=\dimen151
+\defaultaddspace=\dimen152
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen153
+\@belowrulesep=\dimen154
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen155
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count197
+)) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen156
+)) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen157
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen158
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks18
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks19
+\eqnshift@=\dimen159
+\alignsep@=\dimen160
+\tagshift@=\dimen161
+\tagwidth@=\dimen162
+\totwidth@=\dimen163
+\lineht@=\dimen164
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen165
+\ar@mcellbox=\box53
+\extrarowheight=\dimen166
+\NC@list=\toks22
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box54
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count276
+\multirow@dima=\skip56
+\bigstrutjot=\dimen167
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen168
+\WF@size=\dimen169
+\c@WF@wrappedlines=\count277
+\WF@box=\box55
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count278
+\c@continuedfloat=\count279
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box56
+) (cashew.aux)
+\openout1 = `cashew.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen178
+\scratchbox=\box57
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen179
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks25
+) (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Us\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+Overfull \hbox (7.84657pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/9 vo-lu-tional Neu-ral Net-works, Pro-duc-tion Line, Robotic Ma-nip-u-la-tor, Cashew
+ []
+
+[1
+
+{C:/Users/Us/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
+<fig1.PNG, id=14, 349.305pt x 251.43938pt>
+File: fig1.PNG Graphic file (type png)
+<use fig1.PNG>
+Package pdftex.def Info: fig1.PNG  used on input line 42.
+(pdftex.def)             Requested size: 276.00105pt x 198.6848pt.
+ [3]
+<fig2.JPG, id=19, 975.645pt x 310.91156pt>
+File: fig2.JPG Graphic file (type jpg)
+<use fig2.JPG>
+Package pdftex.def Info: fig2.JPG  used on input line 52.
+(pdftex.def)             Requested size: 310.4979pt x 98.94815pt.
+ [4 <./fig1.PNG> <./fig2.JPG>]
+<fig3.JPG, id=25, 696.35156pt x 435.12563pt>
+File: fig3.JPG Graphic file (type jpg)
+<use fig3.JPG>
+Package pdftex.def Info: fig3.JPG  used on input line 58.
+(pdftex.def)             Requested size: 276.00105pt x 172.46033pt.
+<fig4.JPG, id=26, 883.80188pt x 252.945pt>
+File: fig4.JPG Graphic file (type jpg)
+<use fig4.JPG>
+Package pdftex.def Info: fig4.JPG  used on input line 69.
+(pdftex.def)             Requested size: 345.0pt x 98.74078pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./fig3.JPG>]
+<fig5.JPG, id=30, 606.01407pt x 200.24812pt>
+File: fig5.JPG Graphic file (type jpg)
+<use fig5.JPG>
+Package pdftex.def Info: fig5.JPG  used on input line 75.
+(pdftex.def)             Requested size: 345.0pt x 114.00206pt.
+ [6 <./fig4.JPG> <./fig5.JPG>] [7]
+<fig6.JPG, id=41, 221.32687pt x 272.51813pt>
+File: fig6.JPG Graphic file (type jpg)
+<use fig6.JPG>
+Package pdftex.def Info: fig6.JPG  used on input line 99.
+(pdftex.def)             Requested size: 103.50105pt x 127.44315pt.
+ [8 <./fig6.JPG>]
+<fig7.JPG, id=47, 364.36125pt x 461.47406pt>
+File: fig7.JPG Graphic file (type jpg)
+<use fig7.JPG>
+Package pdftex.def Info: fig7.JPG  used on input line 116.
+(pdftex.def)             Requested size: 137.9979pt x 174.77751pt.
+ [9 <./fig7.JPG>]
+<fig8.JPG, id=51, 971.12813pt x 498.36188pt>
+File: fig8.JPG Graphic file (type jpg)
+<use fig8.JPG>
+Package pdftex.def Info: fig8.JPG  used on input line 127.
+(pdftex.def)             Requested size: 345.0pt x 177.04517pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+<DX.png, id=52, 254.45062pt x 285.31593pt>
+File: DX.png Graphic file (type png)
+<use DX.png>
+Package pdftex.def Info: DX.png  used on input line 151.
+(pdftex.def)             Requested size: 103.50232pt x 113.81088pt.
+
+Overfull \hbox (2.20628pt too wide) in paragraph at lines 139--155
+ [][] 
+ []
+
+[10 <./fig8.JPG>] [11 <./DX.png>]
+<fig9.JPG, id=60, 600.74437pt x 432.11438pt>
+File: fig9.JPG Graphic file (type jpg)
+<use fig9.JPG>
+Package pdftex.def Info: fig9.JPG  used on input line 164.
+(pdftex.def)             Requested size: 207.0021pt x 148.89499pt.
+<fig10.JPG, id=61, 771.63281pt x 498.36188pt>
+File: fig10.JPG Graphic file (type jpg)
+<use fig10.JPG>
+Package pdftex.def Info: fig10.JPG  used on input line 172.
+(pdftex.def)             Requested size: 241.49895pt x 155.97343pt.
+ [12 <./fig9.JPG> <./fig10.JPG>] [13]
+<fig11.JPG, id=70, 908.64468pt x 465.23813pt>
+File: fig11.JPG Graphic file (type jpg)
+<use fig11.JPG>
+Package pdftex.def Info: fig11.JPG  used on input line 198.
+(pdftex.def)             Requested size: 345.0pt x 176.64323pt.
+ [14 <./fig11.JPG>]
+<fig12.JPG, id=74, 694.09312pt x 392.21532pt>
+File: fig12.JPG Graphic file (type jpg)
+<use fig12.JPG>
+Package pdftex.def Info: fig12.JPG  used on input line 207.
+(pdftex.def)             Requested size: 224.2479pt x 126.71439pt.
+ [15 <./fig12.JPG>]
+<fig13.JPG, id=79, 624.08156pt x 285.31593pt>
+File: fig13.JPG Graphic file (type jpg)
+<use fig13.JPG>
+Package pdftex.def Info: fig13.JPG  used on input line 271.
+(pdftex.def)             Requested size: 258.75pt x 118.29506pt.
+ [16 <./fig13.JPG>] [17]
+<fig14.JPG, id=87, 612.03656pt x 241.65282pt>
+File: fig14.JPG Graphic file (type jpg)
+<use fig14.JPG>
+Package pdftex.def Info: fig14.JPG  used on input line 299.
+(pdftex.def)             Requested size: 224.2479pt x 88.53993pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+[18 <./fig14.JPG>]
+<fig15.JPG, id=91, 747.54282pt x 397.485pt>
+File: fig15.JPG Graphic file (type jpg)
+<use fig15.JPG>
+Package pdftex.def Info: fig15.JPG  used on input line 314.
+(pdftex.def)             Requested size: 310.4979pt x 165.09875pt.
+<fig16.JPG, id=92, 939.51pt x 323.70938pt>
+File: fig16.JPG Graphic file (type jpg)
+<use fig16.JPG>
+Package pdftex.def Info: fig16.JPG  used on input line 320.
+(pdftex.def)             Requested size: 345.0pt x 118.86668pt.
+ [19 <./fig15.JPG> <./fig16.JPG>]
+<fig17.JPG, id=97, 962.84718pt x 537.50812pt>
+File: fig17.JPG Graphic file (type jpg)
+<use fig17.JPG>
+Package pdftex.def Info: fig17.JPG  used on input line 329.
+(pdftex.def)             Requested size: 345.0pt x 192.59238pt.
+ [20 <./fig17.JPG>]
+<fig18.JPG, id=101, 487.8225pt x 599.99156pt>
+File: fig18.JPG Graphic file (type jpg)
+<use fig18.JPG>
+Package pdftex.def Info: fig18.JPG  used on input line 336.
+(pdftex.def)             Requested size: 241.49895pt x 297.02878pt.
+ [21 <./fig18.JPG>]
+<fig19.JPG, id=105, 752.0597pt x 590.205pt>
+File: fig19.JPG Graphic file (type jpg)
+<use fig19.JPG>
+Package pdftex.def Info: fig19.JPG  used on input line 343.
+(pdftex.def)             Requested size: 276.00105pt x 216.60728pt.
+ [22 <./fig19.JPG>]
+<fig21.JPG, id=109, 771.63281pt x 250.68657pt>
+File: fig21.JPG Graphic file (type jpg)
+<use fig21.JPG>
+Package pdftex.def Info: fig21.JPG  used on input line 370.
+(pdftex.def)             Requested size: 345.0pt x 112.08112pt.
+<fig22.JPG, id=110, 948.54375pt x 537.50812pt>
+File: fig22.JPG Graphic file (type jpg)
+<use fig22.JPG>
+Package pdftex.def Info: fig22.JPG  used on input line 379.
+(pdftex.def)             Requested size: 310.4979pt x 175.94292pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <./fig21.JPG>]
+Overfull \hbox (6.73523pt too wide) in paragraph at lines 392--406
+ [][] 
+ []
+
+[24 <./fig22.JPG>] [25] [26]
+Overfull \hbox (21.58409pt too wide) in paragraph at lines 425--469
+ [][] 
+ []
+
+<appendix2.JPG, id=124, 455.45157pt x 540.51938pt>
+File: appendix2.JPG Graphic file (type jpg)
+<use appendix2.JPG>
+Package pdftex.def Info: appendix2.JPG  used on input line 474.
+(pdftex.def)             Requested size: 207.0021pt x 245.66452pt.
+[27]
+<appendix3.JPG, id=128, 1050.17343pt x 331.2375pt>
+File: appendix3.JPG Graphic file (type jpg)
+<use appendix3.JPG>
+Package pdftex.def Info: appendix3.JPG  used on input line 481.
+(pdftex.def)             Requested size: 345.0pt x 108.81844pt.
+ [28 <./appendix2.JPG> <./appendix3.JPG>]
+<fig20.JPG, id=132, 603.75563pt x 600.74437pt>
+File: fig20.JPG Graphic file (type jpg)
+<use fig20.JPG>
+Package pdftex.def Info: fig20.JPG  used on input line 488.
+(pdftex.def)             Requested size: 345.0pt x 343.28035pt.
+ [29 <./fig20.JPG>] [30] [31] (cashew.aux) ) 
+Here is how much of TeX's memory you used:
+ 4588 strings out of 476374
+ 77022 string characters out of 5790270
+ 1871340 words of memory out of 5000000
+ 24923 multiletter control sequences out of 15000+600000
+ 518612 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,14n,63p,1358b,422s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Us\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Us/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
+Output written on cashew.pdf (31 pages, 2063837 bytes).
+PDF statistics:
+ 205 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+
